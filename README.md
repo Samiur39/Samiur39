@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Samiur Rahman Sifat Banner" width="100%" />
+  <img src="banner.png" alt="Samiur Rahman Sifat Banner" width="100%" />
 </p>
 
 # Hi 👋, I'm Samiur Rahman Sifat
