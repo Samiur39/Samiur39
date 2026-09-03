@@ -20,5 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiur39&show_icons=true&locale=en&layout=compact" alt="samiur39" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiur39&" alt="samiur39" /></p>
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
