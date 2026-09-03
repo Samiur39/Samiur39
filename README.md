@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_devcrwdevcrwdevc.jpg" alt="Samiur Rahman Sifat Banner" width="100%" />
+  <img src="ChatGPT Image Sep 3, 2026, 07_07_13 PM.jpg" alt="Samiur Rahman Sifat Banner" width="100%" />
 </p>
 
 # Hi 👋, I'm Samiur Rahman Sifat
